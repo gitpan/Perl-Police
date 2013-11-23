@@ -1,11 +1,11 @@
-package Perl::Ploice;
+package Perl::Police;
 
 use strict;
 use warnings FATAL => 'all';
 use 5.008_005;
 use vars qw{$VERSION};
 BEGIN {
-	$VERSION = 'v0.0.1';
+	$VERSION = 'v0.0.2';
 }
 
 1;
@@ -15,7 +15,7 @@ __END__
 
 =head1 NAME
 
-Perl::Ploice - Essentially a Code Review, on steroids.
+Perl::Police - Essentially a Code Review, on steroids.
 NOTE: This version is NOT complete. If you think this Module may be of
 interest to you. Track this Module, as the following version will be
 operational.
